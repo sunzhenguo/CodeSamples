@@ -12,9 +12,12 @@ namespace Debugger
         {
 
 
-            ICode c = new Code.OfType();
+            ICode c = new Code.IODirectory();
 
             c.Start();
+
+
+            Console.Read();
         }
     }
 }

@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Code\OfType.cs" />
+    <Compile Include="Code\System.IO.Directory.cs" />
     <Compile Include="ICode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
